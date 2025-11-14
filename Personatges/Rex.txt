@@ -1,2 +1,4 @@
 Nom:Rex
 Elemnt: Aire
+
+Història: Té 300 anys. Pot comunicar-se amb humans. 
